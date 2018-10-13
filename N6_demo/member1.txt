@@ -1,1 +1,2 @@
 demo nhom 6 
+fix
